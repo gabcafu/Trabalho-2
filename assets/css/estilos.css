@@ -1,0 +1,69 @@
+
+*{
+    font-style: oblique;
+    color: #0072dd;
+}
+
+input,i{
+    margin-bottom: 10px;
+}
+
+.cor{
+    background-color: #036bcc;
+    color: rgb(26, 21, 21);
+    font-weight: bold;
+}
+
+#fundo{
+   background-color: rgb(62, 131, 201)
+}
+
+.botao{
+    background-color: #0d0e0f;
+    color: #467fb1;
+    border-color: #638aae;
+    font-weight: bold;
+}
+
+.txt{
+    background-color: #0e0f0f;
+    color: white;
+    font-weight: bold;
+}
+
+textarea{
+    resize: none;
+}
+
+
+.cor2{
+    background-color: #0c0d0e;
+    color: rgb(209, 211, 212);
+    font-weight: bold;
+}
+.cor3{
+    background-color: #455b72;
+    color: rgb(136, 134, 49);
+    font-weight: bold;
+}
+
+.fundao{
+    background-color: #225bbd;
+    color:#0072dd;
+    font-weight: bold;
+}
+.fundinho{
+    background-color: #101622;
+}
+.logoff{
+    position:fixed;
+    right: 0; 
+    cursor: pointer;
+    margin-right: 20px;
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+h4{
+    font-size: 20px;
+}
